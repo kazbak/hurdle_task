@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.hero{
+    margin: 40px;
+    background: url(./images/bg-hero-desktop.svg);
+    color: hsl(193, 100%, 96%);
+    display: flex;
+    
+}
